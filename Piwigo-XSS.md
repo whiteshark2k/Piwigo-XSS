@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60933129-599e-420a-b361-52eacc828ad1)## In Piwigo v14.5.0, I found XSS Vulnerability in function Add Album </br>
+## In Piwigo v14.5.0, I found XSS Vulnerability in function Add Album </br>
 Piwigo v14.5.0: [https://github.com/modstart/ModStartCMS](https://github.com/Piwigo/Piwigo) </br>
 
 ## Reproduce bug:</br>
