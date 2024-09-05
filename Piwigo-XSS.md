@@ -10,14 +10,14 @@ Step 2: Add album with payload XSS in album name
 
 ![Alt text](test2.png)
 
-Burp request add album
-Param: virtual_name=test%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E
+Burp request add album</br>
+Manipulate Param: virtual_name=test%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E
 ![Alt text](test3.png)
 
 Step 3: Payload trigger
 ![Alt text](test4.png)
 
-Payload trigger in dashboard
+Use webmaster account visit dashboard, payload trigger successful.
 ![Alt text](test5.png)
 
 Burp request access to dashboard
