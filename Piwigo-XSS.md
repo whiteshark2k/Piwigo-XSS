@@ -1,5 +1,5 @@
 ## In Piwigo v14.5.0, I found XSS Vulnerability in function Add Album </br>
-Piwigo v14.5.0: [https://github.com/modstart/ModStartCMS](https://github.com/Piwigo/Piwigo) </br>
+Piwigo v14.5.0: [https://github.com/Piwigo/Piwigo] </br>
 
 ## Reproduce bug:</br>
 Step 1: Login with admin account and go to Add Album function.
