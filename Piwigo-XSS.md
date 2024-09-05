@@ -2,8 +2,8 @@
 Piwigo v14.5.0: [https://github.com/Piwigo/Piwigo] </br>
 
 ## Reproduce bug:</br>
-Step 1: Login with admin account and go to Add Album function.
-
+Step 1: Login with admin account and go to Album List Management function.
+http://localhost:8088/piwigo/admin.php?page=cat_list
 ![Alt text](test1.png)
 
 Step 2: Add album with payload XSS in album name
